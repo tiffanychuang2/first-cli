@@ -1,8 +1,9 @@
 {
-  "name": "first-cli",
+  "name": "cli-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,10 +19,10 @@
   },
   "homepage": "https://github.com/tiffanychuang2/first-cli#readme"
 }
-{
-  "name": "cli-project",
-  "version": "1.0.0",
-  // ...
-  "bin": "./index.js",
-  // ...
-}
+// {
+//   "name": "cli-project",
+//   "version": "1.0.0",
+//   // ...
+//   "bin": "./index.js",
+//   // ...
+// }
