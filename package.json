@@ -1,5 +1,5 @@
 {
-  "name": "webcheck",
+  "name": "first-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiffanychuang2/first-cli.git"
+    "url": "https://github.com/tiffanychuang2/first-cli.git"
   },
   "keywords": [],
   "author": "",
@@ -19,10 +19,3 @@
   },
   "homepage": "https://github.com/tiffanychuang2/first-cli#readme"
 }
-// {
-//   "name": "cli-project",
-//   "version": "1.0.0",
-//   // ...
-//   "bin": "./index.js",
-//   // ...
-// }
